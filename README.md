@@ -5,24 +5,33 @@ The purpose of the project is to analyze raw Hydrophone data for Oregon Shelf an
 
 
  #   Questions:
-
-•What is the effect of wind (1point)and rain (1point)on underwater noise? Explain any behavior you observe in your result.
+ Plots of the PSD(db) vs frequency. Oregon Shelf on the left and Oregon Offshore On the right Column.
 
 ![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/No%20rain%20%26%20No%20WInd%20(Oregon%20Shelf).png) 
-![alt-text-2](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/No%20rain%20%26%20Windy%20(Oregon%20Shelf).png).png) 
-![alt-text-3](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/Rainy%20%26%20No%20WInd%20(Oregon%20Shelf).png).png) 
-![alt-text-4](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/rainy%20%26%20%20WIndy%20(Oregon%20Shelf).png).png) 
-![alt-text-5](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/Rainy%20%26%20No%20Wind%20(Oregon%20Shelf).png) 
-![alt-text-6](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/_No%20rain%20%26%20Windy%20(Oregon%20Offshore).png).png) 
-![alt-text-7](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/_Rainy%20%26%20No%20WInd%20(Oregon%20Offshore).png).png) 
-![alt-text-8](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/_%20rainy%20%26%20%20WIndy%20(Oregon%20Offshore).png).png) 
+![alt-text-2](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/_No%20rain%20%26%20No%20WInd%20(Oregon%20Offshore).png).png) 
+![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/No%20rain%20%26%20Windy%20(Oregon%20Shelf).png).png) 
+![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/_No%20rain%20%26%20Windy%20(Oregon%20Offshore).png).png) 
+![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/Rainy%20%26%20No%20Wind%20(Oregon%20Shelf).png) 
+![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/_Rainy%20%26%20No%20WInd%20(Oregon%20Offshore).png).png) 
+![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/rainy%20%26%20%20WIndy%20(Oregon%20Shelf).png).png) 
+![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/_%20rainy%20%26%20%20WIndy%20(Oregon%20Offshore).png).png) 
+
+
+•What is the effect of wind (1point)and rain (1point)on underwater noise? Explain any behavior you observe in your result.
 
 •Which one has the highestimpact? Rain or wind?(1point)
 •What arethe main reasonsforobservingdifferentspectral levels in Oregon shelf compared to Oregon offshore? (1point)
 
+
 ![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/(Airgun%20Spectogram).png).png) 
+
 ![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/(Mammal%20Spectogram).png).png) 
+
 ![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/(Earthquake%20Spectogram).png).png) 
+
+Compare the bandwidth of these three signals(1point). Are they consistent with what is shown in the Wenz curve(refer to the Ocean Noise slides)?(2point)
+
+
 # Conclusion:
  
  
