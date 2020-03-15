@@ -1,7 +1,7 @@
 # Project-4--Hydrophone-Assignment
 
 #  Introduction
-The purpose of the project is to analyze raw Hydrophone data for Oregon Shelf and Oregon Offshore Cables Bonthic Experiement Package. From here, power spectral density (PSD) will be graphed and Spectogram . PSD is the measure of signal's power content vs frequency. This will then give us information on how Ocean
+The purpose of the project is to analyze raw Hydrophone data for Oregon Shelf and Oregon Offshore Cables Bonthic Experiement Package. From here, power spectral density (PSD) will be graphed, PSD is the measure of signal's power content vs frequency. This project is important for students to understand to learn how various things affects the ocean noise. Although there's Attenuation loss from the ocean water and other organisms, some sounds can still can travel far and affect other creatures. In addition, Airgun for companies searching for oil and gas, Marine Mammals sounds, and Volcano noise will also be studied and comapred against Wenz curve graph.
 
 
  #   Questions:
@@ -18,7 +18,7 @@ The purpose of the project is to analyze raw Hydrophone data for Oregon Shelf an
 
 
 •What is the effect of wind (1point)and rain (1point)on underwater noise? Explain any behavior you observe in your result.
-THe effect of wind and rain has some effect on underwater noise. Obviously if rain drops then some noise should be created due to impact, on the other hand, being windy will encourage movements of waves. According from our "No Rain and No wind (oregon Shell)" the overall data stays around 40 PSDdb while the graph with the rainy and windy shows that its stabilizes at 50 PSDdb. Although there could be some error, on the No rain and now wind data since the exact data this event occur didn't have any hydrophone data recorded, we can see the correct result of what it should be. Rainy and Windy should create some noise.
+The effect of wind and rain has some effect on underwater noise. Obviously if rain drops then some noise should be created due to impact, on the other hand, being windy will encourage movements of waves. According from our "No Rain and No wind (oregon Shell)" the overall data stays around 40 PSDdb while the graph with the rainy and windy shows that its stabilizes at 50 PSDdb. Although there could be some error, on the No rain and now wind data since the exact data this event occur didn't have any hydrophone data recorded, we can see the correct result of what it should be. Rainy and Windy should create some noise.
 
 For the Offshore data, which is further from away from the shore, we can a similar result that when there is rain and wind average Power spectral desnity is higher.  for No rain and No wind, the graph started at 75PSD db and stays at around 50 while when its raindy and windy the graph starts at 80PSD db and stays at around 55 while frequency gets higher. However, As to mention before, we should be able to a greater difference if the exact date of raw hydrophone data was available at that time.
 
@@ -38,7 +38,7 @@ Airgun are pressurized blast of air into through the ocean into the seafloor and
 ![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/(Mammal%20Spectogram).png).png) 
 From the data we can see a strip showing there is a frequency from 1000-5000Hz over a period of time. From the wenz curve, we know that Biologics/ animals creates sound from 10-100,000Hz of sound. Again, this fits as a Marine Mammal making a sound under water. This is most likely a sound coming from a whale communitcating at great distances. 
 
-![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/(Earthquake%20Spectogram).png).png) 
+![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/(Axial%20Seamoung%20Volcano).png).png) 
 The aim for the graph was trying to capture the axial seamount volcano explosion that happen on april of 2015. However, since there were no data recorded on april, I have decidede to look into september instead. Fortunately, there were still some activities happening after a few as can be seen from the data. Most of the data are at 0-20frequency.Comparing this values to Wenz curve, we have confrimed that this can considered as an explosion which is most likely due tot the volcano exploding underwater. 
 
 Compare the bandwidth of these three signals(1point). Are they consistent with what is shown in the Wenz curve(refer to the Ocean Noise slides)?(2point)
