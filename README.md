@@ -5,6 +5,7 @@ The purpose of the project is to analyze raw Hydrophone data for Oregon Shelf an
 
 
  #   Questions:
+   # Part I
  Plots of the PSD(db) vs frequency. Oregon Shelf on the left and Oregon Offshore On the right Column.
 
 ![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/No%20rain%20%26%20No%20WInd%20(Oregon%20Shelf).png) 
@@ -30,7 +31,7 @@ The highest Imapct according from the data is Rainy. Looking at the Oregon shelf
 The main reason for observing different spectral for Oregon shelf and Oregon Offshore is to see how depth will affect the transfer of sound. When it rain and windy for oregon shel the data starts of at 75 and stay at 50PSDdb and 70 for Oregon Offshore and stayss at around 40 as frequency increases.
  Oregon Shelf has higher Power spectral density because thats when the ocean is shallower. Meaning, there is a chance that the sound can travel all the way down to the bottom and create reflection and boucing back after hitting the bottom. On the other hand, a deeper area of the sea wouldn't have as much reflection since most of the sound will be absord by the water and also some organisms.
  
- 
+  # part II
 
 ![alt-text-1](https://github.com/aldrinfaylona/Project-4--Hydrophone-Assignment/blob/master/Ocean-%20Project%204%20hydrophone%20images/(Airgun%20Spectogram).png).png) 
 Airgun are pressurized blast of air into through the ocean into the seafloor and produces bubbles. This are done by the companies who are trying to look for oil and gas. Our data have recorded of about 0-5000Hz frequency on 2019-08-01. Comparing to Wenz curve, it says that bubble are normally in the range of 100Hz up to around 20000Hz. This illustrates that the frequecy of the data fits well for Bubbles making sound that was detected by the Hydrophone.
